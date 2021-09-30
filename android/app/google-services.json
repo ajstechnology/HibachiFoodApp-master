@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745029491342",
+    "firebase_url": "https://hibachi-b2f50-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hibachi-b2f50",
+    "storage_bucket": "hibachi-b2f50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745029491342:android:3ed9c4da3bd548d32207df",
+        "android_client_info": {
+          "package_name": "com.hibachi.foody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745029491342-sdvapvgrtt48p479q9jap33ae9pdg5u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj4lgNjEKjKPP1_4zWvDwYyrTVibtwiYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745029491342-sdvapvgrtt48p479q9jap33ae9pdg5u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
